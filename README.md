@@ -1,18 +1,40 @@
-<h1 align="left">Hello!!! 👋 I'm Potato</h1>
-
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Derek</h1>
 <p align="left">
+  <a href="https://github.com/dereknguyen269">
+    <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
+  </a>
+  <a href="https://github.com/dereknguyen269?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
+</a>
 
+- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
+- :computer: I'm currently working as a Software Engineer.
+- :dart: I'm currently working on my pet projects.
+- :video_game: I love Dota 2.
+- :coffee: I'm coffeer.
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```ruby
+CONST DEREK = {
+  pronouns: "He" | "him",
+  backend: ["Ruby", "Nodejs", "Go"],
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
+  database: ["Postgresql", "mySQL", "Redis"],
+  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
+}
+```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-
-
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
+---
