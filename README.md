@@ -1,40 +1,40 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Derek</h1>
+<h1 align="left" id="macropower-title">:wave: Hi! I'm Potato</h1>
+
 <p align="left">
-  <a href="https://github.com/dereknguyen269">
-    <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
+  <a href="https://github.com/jagabi">
+    <img src="https://komarev.com/ghpvc/?username=jagabi" alt="page views">
   </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jagabi?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  
   </a>
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yundong0913@gmail.com)](mailto:yundong0913@gmail.com)
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
-<a href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
+<a href="#jagabi-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagabi&show_icons=true" alt="jagabi" align="right" />
 </a>
 
-- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
-- :computer: I'm currently working as a Software Engineer.
-- :dart: I'm currently working on my pet projects.
-- :video_game: I love Dota 2.
+
+- :house: I'm currently living in Seoul, South Korea 🇰🇷.
+- :computer: I'm currently studying Server and Cloud technologies.
+- 👨‍🎓: I'm a student at Seoul National University of Science and Technology.
+- :video_game: I love playing Steam games.
 - :coffee: I'm coffeer.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- *Programming Languages*: *Java*, *Python*, *Dart*
+- *Operating Systems*: *Windows*, *CentOS*, *Ubuntu*
+- *Certifications*: *AWS*, *CCNA*, *SQLD*
+- *Technologies*: *Cisco*, *Oracle*, *Flutter*
 
-```ruby
-CONST DEREK = {
-  pronouns: "He" | "him",
-  backend: ["Ruby", "Nodejs", "Go"],
-  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
-  database: ["Postgresql", "mySQL", "Redis"],
-  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
-}
-```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<img src="https://media.giphy.com/media/XHdW0gCDj6KiFmKFCZ/giphy.gif" width="40"> <em><b>I love Mondays! Why, you ask? Because I'm unemployed! 😎🌴</b></em>
+
+
 
 ---
+<p align="center"><img src="https://media.giphy.com/media/ccedUarzoWBuo/giphy.gif" /></p>
