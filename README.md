@@ -1,5 +1,5 @@
-<h1 align="left">I'm Potato</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h1 align="left">Hello!!! 👋 I'm Potato</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,30 +11,6 @@
 
 
 
-# Seoul National University of Science and Technology Student
-
-## Programming Languages
-- Java
-- Python
-- Dart
-
-## Operating Systems
-- Windows
-- CentOS
-- Ubuntu
-
-## Certifications and Skills
-- AWS
-- CCNA (Cisco Certified Network Associate)
-- SQLD (SQL Developer)
-
-## Technologies
-- Cisco
-- Oracle
-- Flutter
-
-## Career Goal
-- Aspiring Cloud Engineer
 
 
 
