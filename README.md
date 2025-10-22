@@ -1,7 +1,7 @@
 <h1 align="left">Hello.</h1>
 
 <p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21zOGs1eXpveWtxaTB4Y3JsaWs5dWQ0NnhhcHZpMWZxNmsxODRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="200">
 </p>
 
 ## Education
