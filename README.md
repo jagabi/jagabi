@@ -1,7 +1,7 @@
 <h1 align="left">Hello.</h1>
 
 <div align="right" style="margin-top: -20px;">
-  <img src="https://github.com/user-attachments/assets/f2a438d3-e82a-45be-95bd-336920aa5016" width="150">
+  <img src="https://github.com/user-attachments/assets/f2111583-aed4-4e83-92a4-1d8d586746eb" width="150">
 </div>
 
 ## Education
