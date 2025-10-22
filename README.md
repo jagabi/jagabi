@@ -25,4 +25,5 @@ This is Yun Lab.
 Seoul, South Korea
 
 ## Contact
-yundong0913@gmail.com
+mail: yundong0913@gmail.com  
+blog: https://yundong.tistory.com/
