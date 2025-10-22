@@ -1,6 +1,6 @@
 <h1 align="left">Hello.</h1>
 
-![Image](https://github.com/user-attachments/assets/f87b5d19-0770-44a4-9803-88360ad813a6)
+<img align="right" src="https://github.com/user-attachments/assets/f87b5d19-0770-44a4-9803-88360ad813a6" width="150">
 
 ## Education
 - **BS, Seoul National University of Science and Technology** (2025)
