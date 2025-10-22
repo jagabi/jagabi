@@ -16,7 +16,7 @@ This is Yun Lab.
 - **INTER X** (2024-09 ~ 2025-02)
 - **KISTI (Korea Institute of Science and Technology Information)** (2025-02 ~)
 
-## Technical Skills
+## Skills
 - **Programming**: Python
 - **Systems**: Ubuntu, Linux
 - **AI/ML**: LLM, VLM, CNN, Machine Learning
