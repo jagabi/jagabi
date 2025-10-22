@@ -3,6 +3,9 @@
   <img src="https://github.com/user-attachments/assets/f2111583-aed4-4e83-92a4-1d8d586746eb" width="150" align="right">
 </h1>
 
+
+
+
 ## Education
 - **BS, Seoul National University of Science and Technology** (2025)
 - **MS, University of Seoul** (2025~)
