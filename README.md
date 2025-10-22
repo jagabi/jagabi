@@ -1,8 +1,6 @@
 <h1 align="left">Hello.</h1>
 
-<div align="right" style="margin-top: -20px;">
-  <img src="https://github.com/user-attachments/assets/f87b5d19-0770-44a4-9803-88360ad813a6" width="150">
-</div>
+<img align="right" src="https://github.com/user-attachments/assets/f2a438d3-e82a-45be-95bd-336920aa5016" width="150">
 
 ## Education
 - **BS, Seoul National University of Science and Technology** (2025)
