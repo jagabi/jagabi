@@ -20,9 +20,8 @@
 - **KISTI (Korea Institute of Science and Technology Information)** (2025-02 ~)
 
 ## Technical Skills
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python
 - **Operating Systems**: Ubuntu, Linux
-- **Certifications**: SQLD
 - **AI/ML Focus**: LLM, VLM, CNN, Machine Learning
 
 ## Location
