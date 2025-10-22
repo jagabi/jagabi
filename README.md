@@ -1,12 +1,8 @@
 <h1 align="left">Hello.</h1>
 
 <p align="left">
-  <a href="mailto:yundong0913@gmail.com">
-    <img src="https://img.shields.io/badge/-yundong0913@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21zOGs1eXpveWtxaTB4Y3JsaWs5dWQ0NnhhcHZpMWZxNmsxODRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif" width="200">
 </p>
-
----
 
 ## Education
 - **BS, Seoul National University of Science and Technology** (2025)
@@ -23,3 +19,6 @@
 
 ## Location
 Seoul, South Korea
+
+## Contact
+yundong0913@gmail.com
