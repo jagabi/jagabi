@@ -24,6 +24,11 @@ This is Yun Lab.
 ## Location
 Seoul, South Korea
 
+
+## Third Party
+huggingface: https://huggingface.com/yundog/
+blog: https://yundong.tistory.com/
+
 ## Contact
 mail: yundong0913@gmail.com  
-blog: https://yundong.tistory.com/
+blog: 
