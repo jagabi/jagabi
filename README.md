@@ -26,8 +26,8 @@ Seoul, South Korea
 
 
 ## Third Party
-huggingface: https://huggingface.com/yundog/
-blog: https://yundong.tistory.com/
+huggingface: https://huggingface.com/yundog/  
+blog: https://yundong.tistory.com/  
 
 ## Contact
 mail: yundong0913@gmail.com  
